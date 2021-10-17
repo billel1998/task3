@@ -1,0 +1,12 @@
+how to work with git ? / automated testing
+git branch
+create a master(main branch) 
+1/ create another branch
+2/ create folders 
+from the last commit, we create another branch, then git add,commit,push.
+create pull request 
+
+3 ways: with a single variable
+        
+		
+2/ matrice : create a function that print a matrice  print(matrix, 01)
