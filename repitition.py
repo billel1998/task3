@@ -10,6 +10,7 @@ while i < len(t):
     i +=1
     j = i+1
 print(t)
+print("ok")
 
 
 
